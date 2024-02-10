@@ -1,0 +1,18 @@
+body {
+    background-color: antiquewhite;
+    text-align: center !important;
+}
+
+#score {
+    font-size: 22px;
+    margin-right: 80px;
+}
+
+#timer {
+    font-size: 22px;
+    margin-left: 80px;
+}
+
+#next_sketch {
+    color: black;
+}
